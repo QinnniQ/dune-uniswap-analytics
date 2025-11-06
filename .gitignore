@@ -1,0 +1,8 @@
+.DS_Store
+*.csv
+*.png
+*.jpg
+*.svg
+*.zip
+exports/*
+!exports/.gitkeep
