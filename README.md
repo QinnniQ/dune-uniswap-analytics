@@ -1,18 +1,15 @@
-# 🦄 Dune Analytics — Uniswap V3 WETH/USDC Dashboard
+# Dune Analytics — Uniswap V3 WETH/USDC Dashboard
 
 A blockchain analytics project showcasing real on-chain SQL queries and dashboards built with **Dune Analytics**.  
 It analyzes the **Uniswap V3 WETH/USDC (0.05%)** pool, tracking trading volume, estimated fees, and rolling fee trends.
 
 ---
 
-## 📊 Live Dashboard
+## Live Dashboard
 
-🔗 [View on Dune →](https://dune.com/qinnniq/dashone)
+[View on Dune →](https://dune.com/qinnniq/dashone)
 
-
----
-
-## 🧮 Key Metrics
+## Key Metrics
 
 | Metric | Description |
 |--------|--------------|
@@ -23,7 +20,7 @@ It analyzes the **Uniswap V3 WETH/USDC (0.05%)** pool, tracking trading volume, 
 
 ---
 
-## 💡 Insights
+## Insights
 
 - The WETH/USDC pool remains one of the most liquid pairs on Uniswap V3.  
 - Fee spikes correspond to market volatility (ETH price surges).  
@@ -31,7 +28,7 @@ It analyzes the **Uniswap V3 WETH/USDC (0.05%)** pool, tracking trading volume, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Dune SQL** — On-chain analytics  
 - **Ethereum Mainnet Data** — Uniswap V3 pool  
@@ -39,7 +36,7 @@ It analyzes the **Uniswap V3 WETH/USDC (0.05%)** pool, tracking trading volume, 
 
 ---
 
-## 🧠 About This Project
+## About This Project
 
 Created as part of an ongoing **AI Engineering & Data Portfolio**, showcasing skills in:
 
@@ -50,7 +47,6 @@ Created as part of an ongoing **AI Engineering & Data Portfolio**, showcasing sk
 
 ---
 
-**Author:** [Nicholai (“Nick”) Gay](https://github.com/qinnniq)  
-**License:** MIT  
+**Author:** [Nicholai Gay](https://github.com/qinnniq)  
 
 
